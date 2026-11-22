@@ -1,0 +1,23 @@
+{
+  "name": "Websmith Studio — Custom Website Design & Development",
+  "short_name": "Websmith Studio",
+  "description": "Websmith Studio designs and builds bespoke, responsive websites for businesses, entrepreneurs and growing brands.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080809",
+  "theme_color": "#080809",
+  "icons": [
+    {
+      "src": "assets/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/websmith-logo-brass-on-black.png",
+      "sizes": "1672x941",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

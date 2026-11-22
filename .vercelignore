@@ -1,0 +1,8 @@
+# Exclude reference source folders & dev files from Vercel deployment
+done/
+node_modules/
+.git/
+.vscode/
+.idea/
+README.md
+*.log
